@@ -2,27 +2,27 @@
 
 ## Contributors and Duties
 
-Anna Janelidze:
+Anna J:
 Front End Development 
 Working with the UI 
 Adding editing features to edit the graphical interface
 
-Bryan Mena:
+Bryan M:
 Front End Development 
 Working with the UI 
 Adding editing features to edit the graphical interface
 
-Ariel del Risco:
+Ariel R:
 Back End Development 
 Working with grabbing the CSV file
 Sending the graphical interface back to the UI
 
-Enrique Rodriguez:
+Enrique R:
 Back End Development 
 Working with grabbing the CSV file
 Sending the graphical interface back to the UI
 
-Manuel Albisu- Bouza:
+Manuel A:
 Back End Development 
 Working with grabbing the CSV file
 Sending the graphical interface back to the UI
